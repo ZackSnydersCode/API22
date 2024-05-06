@@ -1,5 +1,6 @@
 from flask import Flask,request,jsonify
 import json
+import requests
 
 app = Flask("__name__")
 
@@ -32,7 +33,24 @@ def Desire():
 @app.route('/customTmp', methods=['GET'])
 def customTmpl():
     data = request.args.get('data')
-    return f"Hello Custome POrno {data}"
+    my_pex_k = '3F5Q1kY3jFYMs27tFm0bh6EEHlJfvVOAEcK8do9QKHVaQUcIJNajlPDM'
+    pex_url = 'https://api.pexels.com/v1/search'
+    headers={
+        "Authorization":my_pex_k
+    }
+    params={
+        "query":data,
+        "per_page":1,
+        "page":1
+    }
+    try:
+        response = requests.get(pex_url, headers=headers, params=params)
+        if response.status_code == 200:
+            return jsonify({'photo':response.json()})
+        else:
+            return jsonify({'photo':'err'})
+    except Exception as e:
+        return jsonify({'photo':e})
 
 
 
