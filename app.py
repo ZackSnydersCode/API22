@@ -1,7 +1,5 @@
 from flask import Flask,request,jsonify
 import json
-import requests
-import os
 
 app = Flask("__name__")
 
@@ -30,5 +28,6 @@ def Desire():
                 return jsonify({'Template':i})
             return jsonify({'Template':2})
         return jsonify({'Template':3})
+
 
 
