@@ -29,3 +29,36 @@ def Desire():
             return jsonify({'Template':2})
         return jsonify({'Template':3})
 
+@app.route('/customTmp', methods=['GET'])
+def customTmpl():
+    data = request.args.get('data')
+    
+    # Retrieve the Pexels API key from an environment variable
+    my_pex_k = os.environ.get('PEXELS_API_KEY')
+    
+    pex_url = 'https://api.pexels.com/v1/search'
+    headers = {
+        "Authorization": my_pex_k
+    }
+    params = {
+        "query": data,
+        "per_page": 1,
+        "page": 1
+    }
+    
+    try:
+        response = requests.get(pex_url, headers=headers, params=params)
+        
+        if response.status_code == 200:
+            # Return the photo data as JSON
+            return jsonify({'photo': response.json()})
+        else:
+            # Return a generic error message if the response is not successful
+            return jsonify({'photo': 'Error: Unable to fetch data from Pexels API'})
+    
+    except Exception as e:
+        # Log the error (if necessary)
+        print(f"Error fetching data from Pexels API: {e}")
+        
+        # Return a generic error message
+        return jsonify({'photo': 'Error fetching data from Pexels API'})
