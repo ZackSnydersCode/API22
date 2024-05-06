@@ -1,7 +1,6 @@
 from flask import Flask,request,jsonify
 import json
 import requests
-import os
 
 app = Flask("__name__")
 
@@ -36,7 +35,7 @@ def customTmpl():
     data = request.args.get('data')
     
     # Retrieve the Pexels API key from an environment variable
-    my_pex_k = os.environ.get('PEXELS_API_KEY')
+    my_pex_k = '3F5Q1kY3jFYMs27tFm0bh6EEHlJfvVOAEcK8do9QKHVaQUcIJNajlPDM'
     
     pex_url = 'https://api.pexels.com/v1/search'
     headers = {
