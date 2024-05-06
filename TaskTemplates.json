@@ -1,0 +1,575 @@
+[
+    {
+        "id": 1,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": " Drink a full glass of water immediately upon waking",
+                "explaination": "Hydration is important for kickstarting your metabolism and flushing out toxins. Drinking water first thing in the morning helps rehydrate your body after a night's sleep.",
+                "duration": null,
+                "time": "",
+                "url": "https://images.pexels.com/photos/3124674/pexels-photo-3124674.jpeg"
+            },
+            {
+                "task": "Perform a exact 30-minute Hard workout.",
+                "explaination": "Morning workouts boost your energy levels and set a positive tone for the rest of the day. You can choose exercises like running, cycling, yoga, or bodyweight exercises such as squats, push-ups, and lunges.",
+                "duration": 30,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/4671948/4671948-hd_720_1298_50fps.mp4"
+            },
+            {
+                "task": "Eat a nutritious, balanced lunch.",
+                "explaination": "Focus on incorporating a variety of food groups into your lunch, including vegetables, whole grains, lean proteins, and healthy fats. A balanced meal provides sustained energy and supports overall health.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/8164418/8164418-hd_720_1366_25fps.mp4"
+            },
+            {
+                "task": "Spend 10 minutes stretching your muscles.",
+                "explaination": " Mid-afternoon is a good time to take a break and stretch your body, especially if you've been sitting for a while. Stretching helps improve flexibility, reduce muscle tension, and increase circulation.",
+                "duration": 10,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/5310936/5310936-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Practice relaxation techniques for 20 minutes.",
+                "explaination": "In the evening, take time to unwind and relax. You can try meditation, deep breathing exercises, or gentle yoga to calm your mind and body. This helps improve sleep quality and reduces stress levels.",
+                "duration": 30,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6707065/6707065-sd_540_960_25fps.mp4"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": " Perform 30 minutes of gentle stretching exercises for your back",
+                "explaination": "Start your day with stretches that focus on loosening up your back muscles, such as cat-cow, child's pose, and seated twists. This can help relieve stiffness and prepare your back for the day ahead.",
+                "duration": 30,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/7662722/7662722-sd_540_960_24fps.mp4"
+            },
+            {
+                "task": "Perform a exact 30-minute Hard workout.",
+                "explaination": "Morning workouts boost your energy levels and set a positive tone for the rest of the day. You can choose exercises like running, cycling, yoga, or bodyweight exercises such as squats, push-ups, and lunges.",
+                "duration": 30,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/4671948/4671948-hd_720_1298_50fps.mp4"
+            },
+            {
+                "task": "Go for a 15-minute walk after lunch.",
+                "explaination": "Walking can help improve circulation and relieve tension in your back muscles. It's also a good opportunity to stretch your legs and break up any prolonged periods of sitting.",
+                "duration": 35,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/5602729/5602729-sd_540_960_30fps.mp4"
+            },
+            {
+                "task": "Take a quick stretch break and arrange your workspace ergonomically.( Stand for 20 minutes )",
+                "explaination": "  Ensure your desk setup is optimized for your back health. Keep your computer screen at eye level, your chair adjusted to support your lower back, and your keyboard and mouse within easy reach. Stretching or standing for a few minutes every hour can help prevent back strain.",
+                "duration": 20,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/7155314/7155314-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Perform 15 minutes of back-strengthening exercises.",
+                "explaination": " Strengthen your back muscles with exercises such as bridges, superman, or planks. These exercises help provide better support for your spine and reduce the likelihood of future back pain.",
+                "duration": 30,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/7589744/7589744-sd_540_960_25fps.mp4"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": "Practice deep breathing for 15 minutes upon waking up.",
+                "explaination": "Deep breathing helps calm your nervous system and set a peaceful tone for the day. Inhale slowly through your nose, hold for a few seconds, then exhale slowly through your mouth. Repeat for several cycles",
+                "duration": 15,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6446260/6446260-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Eat lunch mindfully and take a walk outside if possible.",
+                "explaination": "Enjoy your lunch without distractions, focusing on the taste and texture of your food. After lunch, take a brief walk outside to clear your mind and rejuvenate your energy.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/8164074/8164074-hd_720_1366_25fps.mp4"
+            },
+            {
+                "task": " Do a 15-minute stress-relief exercise like stretching, yoga, or guided meditation.",
+                "explaination": "Break up your afternoon with a short stress-relief exercise to refresh your body and mind. This can help you feel more centered and reduce tension.",
+                "duration": 15,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6688002/6688002-sd_540_960_24fps.mp4"
+            },
+            {
+                "task": "Unplug from technology for at least 45 minutes.",
+                "explaination": "Take time to disconnect from screens and devices to give your mind a break. Use this time to engage in an activity you enjoy, such as reading, drawing, or spending quality time with loved ones.",
+                "duration": 45,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/5135860/5135860-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Write down three things you're grateful for and reflect on your day.",
+                "explaination": "Practicing gratitude helps shift your focus from stressors to positive aspects of your life. Reflecting on your day allows you to process your experiences and prepare for restful sleep.",
+                "duration": 60,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6781906/6781906-sd_540_960_30fps.mp4"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": "Prepare and eat a calorie-rich breakfast within an hour of waking up.",
+                "explaination": "Begin your day with a meal that includes a good mix of proteins, healthy fats, and carbohydrates. For example, you could have oatmeal with nuts and fruit, eggs with whole-grain toast and avocado, or a smoothie with protein powder, nut butter, and banana.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/4725783/4725783-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Have a calorie-dense snack with protein and healthy fats.",
+                "explaination": " Choose snacks like a handful of nuts, yogurt with granola, or a protein bar to keep your energy levels up and provide extra calories between meals.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/7717074/7717074-hd_720_1366_25fps.mp4"
+            },
+            {
+                "task": "Eat a lunch that includes a generous portion of proteins, healthy fats, and complex carbohydrates.",
+                "explaination": "Focus on meals that include lean proteins (like chicken, fish, or tofu), healthy fats (like olive oil, nuts, or seeds), and complex carbohydrates (like whole grains or sweet potatoes). Add in vegetables for fiber and vitamins.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/9829921/9829921-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "eat a calorie-rich dinner.",
+                "explaination": "Similar to lunch, focus on meals with proteins, healthy fats, and complex carbohydrates. Add a side of vegetables for variety and nutrients. For example, you could have grilled salmon with quinoa and roasted vegetables.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/12409707/12409707-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Drink a glass of milk before you go to sleep.",
+                "explaination": "Practicing gratitude helps shift your focus from stressors to positive aspects of your life. Reflecting on your day allows you to process your experiences and prepare for restful sleep.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/9032881/9032881-sd_540_960_24fps.mp4"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": "Practice mindfulness meditation for 15 minutes.",
+                "explaination": "Start your day by sitting quietly and focusing on your breath. Mindfulness meditation helps calm your mind, improve focus, and enhance your ability to concentrate throughout the day.",
+                "duration": 15,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6189263/6189263-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Enjoy a nutritious lunch and take a short walk.",
+                "explaination": "Choose a meal rich in brain-boosting nutrients, such as omega-3 fatty acids, antioxidants, and complex carbohydrates. After lunch, take a walk outside to clear your mind and reset your focus for the afternoon.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/4625326/4625326-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Journal for 15 minutes and plan your next day.",
+                "explaination": "Reflecting on your day can help you identify what worked well and what could be improved. Planning your next day can reduce decision fatigue and provide clarity for your tasks. This can improve your focus and productivity.",
+                "duration": 15,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6565535/6565535-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Do deep breathing exercises for 10 minutes before you go to sleep.",
+                "explaination": "Deep breathing can help increase oxygen flow to the brain, improve mental clarity, and reduce stress. Focus on slow, deep breaths to calm your mind and enhance your ability to concentrate.",
+                "duration": 10,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6598884/6598884-sd_540_960_30fps.mp4"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": "Study for one hour using active learning techniques.",
+                "explaination": "Use active learning methods such as summarizing, teaching the material to yourself, or creating flashcards. Active learning helps you retain information better and understand concepts more deeply.",
+                "duration": 60,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/4864927/4864927-hd_720_1366_25fps.mp4"
+            },
+            {
+                "task": " Spend 30 minutes reviewing notes and summarizing key points.",
+                "explaination": "In the afternoon, review the material you studied earlier in the day. This reinforces your understanding and helps consolidate your memory. Summarize key points to make the information more digestible.",
+                "duration": 30,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/7172604/7172604-sd_540_960_30fps.mp4"
+            },
+            {
+                "task": "Wind down with relaxation techniques and get ready for bed by 10:00 pm.",
+                "explaination": "In the evening, practice relaxation techniques such as deep breathing or meditation to calm your mind. Getting a good night's sleep is essential for cognitive function and memory retention, so aim to be in bed by 10:00 pm.",
+                "duration": 20,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6740725/6740725-sd_540_960_25fps.mp4"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": "Send a polite, short message to the person you would like to become friends with.",
+                "explaination": "Start the day by sending a thoughtful text, email, or social media message to your friend. Ask how they are doing or share a positive thought to show you care about their well-being.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/4962723/4962723-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": " Invite your friend to share a meal or snack with you.",
+                "explaination": "Sharing a meal or snack provides an opportunity to connect with your friend in a relaxed setting. It can be a casual lunch, a coffee break, or even a virtual meal over video call if distance is a factor.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/5080934/5080934-hd_720_1366_25fps.mp4"
+            },
+            {
+                "task": "Plan and participate in an activity together.",
+                "explaination": "Spend time with your friend doing something you both enjoy. This could be a walk in the park, a workout session, a hobby, or any other activity that allows you to bond and create shared experiences.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6540201/6540201-sd_540_960_24fps.mp4"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": "Drink a full glass of water immediately upon waking.",
+                "explaination": "Starting your day with a glass of water helps rehydrate your body after a night's sleep and prepares you for the day ahead.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/5664553/5664553-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Take a sip of water.",
+                "explaination": "By having a water bottle within reach, you'll be reminded to drink water regularly. Aim to drink at least half a liter by midday to stay hydrated.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/4622858/4622858-sd_540_960_30fps.mp4"
+            },
+            {
+                "task": "Once more take a sip of water.",
+                "explaination": "By having a water bottle within reach, you'll be reminded to drink water regularly. Aim to drink at least half a liter by midday to stay hydrated.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/4622858/4622858-sd_540_960_30fps.mp4"
+            },
+            {
+                "task": "Drink a glass of water with dinner and another before bed.",
+                "explaination": " Drinking water with dinner aids digestion and ensures you're getting enough fluids. A glass of water before bed can help keep you hydrated overnight, as long as it doesn't disrupt your sleep.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/4009965/4009965-uhd_2160_4096_25fps.mp4"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": "Gently cleanse your face with a mild cleanser.",
+                "explaination": "Start your day by washing your face with a gentle cleanser to remove any oil, dirt, and sweat that may have accumulated overnight. This helps keep your skin clean and refreshed.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/9786449/9786449-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Apply broad-spectrum sunscreen with at least SPF 30.",
+                "explaination": "Protecting your skin from UV radiation is crucial for preventing premature aging and reducing the risk of skin cancer. Apply sunscreen generously to all exposed skin, even if it's cloudy outside.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6868387/6868387-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Drink a liter of water to keep your skin hydrated.",
+                "explaination": "Staying hydrated is essential for maintaining skin's elasticity and appearance. Drink water consistently throughout the day to keep your skin plump and healthy.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/7884051/7884051-hd_720_1366_25fps.mp4"
+            },
+            {
+                "task": "Apply a moisturizer suited to your skin type.",
+                "explaination": "After cleansing your face in the evening, apply a moisturizer to lock in hydration and protect your skin's natural barrier. Choose a moisturizer that suits your skin type (e.g., dry, oily, combination).",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/4665153/4665153-hd_720_1366_30fps.mp4"
+            },
+            {
+                "task": "Wash your skin before you go to sleep. Give your body massages to unblock the blood vessels.",
+                "explaination": "Massaging the body unblocks the blood vessels, which increases the blood supply to the skin.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/4665153/4665153-hd_720_1366_30fps.mp4"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": "Pin 5 new high-quality images to your boards.",
+                "explaination": " Starting your day by pinning fresh content keeps your account active and engaging. Choose visually appealing images or videos related to your niche or interests to keep your boards interesting.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/5076636/5076636-hd_720_1366_25fps.mp4"
+            },
+            {
+                "task": "Spend 20 minutes engaging with pins from other users.",
+                "explaination": " Interact with other users' pins by repinning, liking, and commenting on content that aligns with your interests. Engaging with others helps increase your visibility and can attract more followers.",
+                "duration": 20,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/5076630/5076630-hd_720_1366_25fps.mp4"
+            },
+            {
+                "task": " Review your Pinterest analytics for trends and performance.",
+                "explaination": "Take a moment to check your account's analytics, such as which pins are performing well and which boards are attracting attention. Use this data to adjust your strategy and focus on what's working.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6952469/6952469-sd_540_960_30fps.mp4"
+            },
+            {
+                "task": "Organize your boards and update keywords and descriptions.",
+                "explaination": "Make sure your boards are well-organized and easy to navigate. Update keywords and descriptions to improve discoverability and search rankings. A clean and organized profile encourages users to follow you.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/5989753/5989753-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Plan and schedule pins for the following day.",
+                "explaination": "Use Pinterest's scheduling tools or third-party apps to plan and schedule pins in advance. Consistency is key to maintaining an active account and keeping your audience engaged.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/7392954/7392954-sd_540_960_25fps.mp4"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": "Reach out with a good message or call.",
+                "explaination": "Start the day by letting your girlfriend know you're thinking about her. A simple message can brighten her morning and set a positive tone for the day.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/4076726/4076726-uhd_2160_3840_25fps.mp4"
+            },
+            {
+                "task": "Send a message to check in during lunchtime.",
+                "explaination": "A midday check-in shows that you care about her and are thinking of her. Ask about her day, and share something from your own day. This helps keep the connection strong.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/5520099/5520099-sd_540_960_30fps.mp4"
+            },
+            {
+                "task": "Arrange to spend quality time together in the evening. (Try to maintain eye contact with her.)",
+                "explaination": "Whether it's a casual dinner, a walk in the park, or watching a favorite show, spending time together in the evening is essential for maintaining a healthy relationship.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/4873423/4873423-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Engage in a meaningful conversation about each other's day. (Avoid to asking too many questions)",
+                "explaination": "Take time to talk about how each other's day went and share your thoughts and feelings. This open communication fosters intimacy and mutual understanding.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/5989769/5989769-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Try to involve her in her daily life problems and try to solve them effectively.",
+                "explaination": "Use Pinterest's scheduling tools or third-party apps to plan and schedule pins in advance. Consistency is key to maintaining an active account and keeping your audience engaged.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/7647329/7647329-sd_540_960_24fps.mp4"
+            },
+            {
+                "task": "Always say good night to her by texting or by phone.",
+                "explaination": "Talking to a girl before going to sleep helps you both get involved with each other.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6598883/6598883-sd_540_960_30fps.mp4"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": "Write down three things you are grateful for.",
+                "explaination": "Starting your day by focusing on gratitude helps shift your mindset away from negative thoughts and towards appreciation. This simple practice can have a significant positive impact on your overall mood.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6918503/6918503-hd_720_1366_25fps.mp4"
+            },
+            {
+                "task": "Spend 10 minutes practicing mindfulness meditation.",
+                "explaination": "Mindfulness meditation involves focusing on the present moment without judgment. It can help you become more aware of your thoughts and feelings, allowing you to manage negative thinking more effectively.",
+                "duration": 10,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/4327208/4327208-hd_720_1366_50fps.mp4"
+            },
+            {
+                "task": "Pause and reframe any negative thoughts you may be experiencing.",
+                "explaination": "Throughout the day, pause to notice any negative thoughts. When you identify them, challenge and reframe them into more positive or neutral thoughts. This can help shift your mindset and reduce negativity.",
+                "duration": 10,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6324540/6324540-sd_540_960_24fps.mp4"
+            },
+            {
+                "task": "Take a walk or engage in light exercise for 20 minutes.",
+                "explaination": "Physical activity releases endorphins, which can improve your mood and reduce stress. A short walk or light exercise can help clear your mind and provide a mental break.",
+                "duration": 20,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/7590372/7590372-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Write about any one of the experiences in the bakery that was very positive and gave you happiness the whole day.",
+                "explaination": "Reflecting on your day can help you process your experiences and focus on the positive moments. Writing down what went well or what you appreciated can help decrease negative thinking and promote a more balanced perspective.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6940831/6940831-hd_720_1366_25fps.mp4"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": "Drink a cup of warm water with a slice of lemon upon waking.",
+                "explaination": "Warm water helps stimulate digestion and can aid in the elimination of waste. Adding a slice of lemon can support your liver and digestive enzymes.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/5935121/5935121-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Consume a breakfast high in fiber, such as oatmeal with berries.",
+                "explaination": "A fiber-rich breakfast helps promote healthy digestion and regular bowel movements. Oatmeal and berries provide a good source of soluble and insoluble fiber.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/7662269/7662269-sd_540_960_30fps.mp4"
+            },
+            {
+                "task": "Chew your lunch slowly and thoroughly.",
+                "explaination": "Chewing your food properly helps break it down and aids in digestion. Eating slowly can also prevent overeating and reduce bloating.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/7126075/7126075-sd_540_960_24fps.mp4"
+            },
+            {
+                "task": "Take a 15-minute walk after your afternoon meal.",
+                "explaination": "Physical activity releases endorphins, which can improve your mood and reduce stress. A short walk or light exercise can help clear your mind and provide a mental break.",
+                "duration": 15,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/8045164/8045164-hd_1080_1920_25fps.mp4"
+            },
+            {
+                "task": " Have a light dinner at least three hours before bedtime.",
+                "explaination": "Eating a lighter meal in the evening can help prevent digestive issues such as heartburn or indigestion during the night. Eating earlier gives your body time to digest your meal before you go to sleep.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6961598/6961598-uhd_2160_4096_25fps.mp4"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": "Set your top three priorities for the",
+                "explaination": "Begin your day by identifying the three most important tasks you want to accomplish. Writing down your priorities gives you focus and helps you stay on track throughout the day.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/3832194/3832194-hd_720_1366_50fps.mp4"
+            },
+            {
+                "task": "Tackle your most difficult task first.",
+                "explaination": "Starting your day with the hardest task ensures it gets your full attention when your energy is highest. Completing it early also gives you a sense of accomplishment and motivation for the rest of the day.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/3831854/3831854-hd_720_1366_50fps.mp4"
+            },
+            {
+                "task": "Set a timer for 25 minutes of focused work.",
+                "explaination": "Use the Pomodoro Technique or a similar method to work in focused intervals followed by short breaks. This helps you maintain concentration and productivity, while breaks prevent burnout.",
+                "duration": 25,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6000223/6000223-sd_540_960_24fps.mp4"
+            },
+            {
+                "task": "Take a 10-minute movement break.",
+                "explaination": "Procrastination can often stem from a lack of energy or focus. A brief walk or stretch break can help refresh your mind and body, making it easier to stay productive.",
+                "duration": 10,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/5552578/5552578-sd_540_960_30fps.mp4"
+            },
+            {
+                "task": "Review your day's progress and plan for the next day.",
+                "explaination": "At the end of the day, assess your accomplishments and challenges. Reflecting helps you identify what worked and what needs improvement. Planning your next day's priorities allows you to start fresh with a clear direction.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/7247861/7247861-sd_540_960_30fps.mp4"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "endpoint": 30,
+        "task": [
+            {
+                "task": "Perform 10 sets of Kegel exercises.",
+                "explaination": "Pelvic floor exercises, such as Kegels, can help strengthen the muscles that support the bladder and other organs in the pelvic region. These exercises involve contracting and relaxing the pelvic floor muscles for a few seconds at a time. Practice while sitting or standing.",
+                "duration":20,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6525525/6525525-hd_1080_1920_30fps.mp4"
+            },
+            {
+                "task": " Drink water throughout the day to stay hydrated.",
+                "explaination": "Proper hydration is essential for overall health, including genital health. Staying hydrated supports healthy blood flow and urinary tract function.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/5664553/5664553-sd_540_960_25fps.mp4"
+            },
+            {
+                "task": "Clean your genital area thoroughly during your daily shower.",
+                "explaination": "Use the Pomodoro Technique or a similar method to work in focused intervals followed by short breaks. This helps you maintain concentration and productivity, while breaks prevent burnout.",
+                "duration": 25,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/8298627/8298627-hd_720_1366_25fps.mp4"
+            },
+            {
+                "task": "Practice relaxation techniques for 20 minutes before bed.",
+                "explaination": "Procrastination can often stem from a lack of energy or focus. A brief walk or stretch break can help refresh your mind and body, making it easier to stay productive.",
+                "duration": null,
+                "time": "",
+                "url": "https://videos.pexels.com/video-files/6144021/6144021-hd_720_1366_25fps.mp4"
+            }
+        ]
+    }
+]

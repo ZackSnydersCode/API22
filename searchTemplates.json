@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "title": "Basic daily routine to accelerate your weight loss efforts.",
+        "url": "https://images.pexels.com/photos/3775540/pexels-photo-3775540.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "description": "Kickstart your weight loss with hydration, exercise, balanced meals, stretching, and relaxation techniques daily.",
+        "category": "weight"
+    },
+    {
+        "id": 2,
+        "title": "Reduce back pain with an easy routine.",
+        "url": "https://images.pexels.com/photos/3754299/pexels-photo-3754299.jpeg",
+        "description": "By following this routine, you can help manage and reduce back pain while also promoting overall spinal health. ",
+        "category": "pain"
+    },
+    {
+        "id": 3,
+        "title": "Make your every day happy and reduce your stress and tension.",
+        "url": "https://images.pexels.com/photos/7203956/pexels-photo-7203956.jpeg",
+        "description": "By incorporating tasks into your daily routine, you can effectively manage stress and promote a sense of calm and well-being throughout the day. ",
+        "category": "reduce stress"
+    },
+    {
+        "id": 4,
+        "title": "Gain a weight with simple meal plan",
+        "url": "https://images.pexels.com/photos/6975473/pexels-photo-6975473.jpeg",
+        "description": "By following this routine, you ensure consistent intake of nutrient-rich foods throughout the day to support healthy weight gain. ",
+        "category": "weight"
+    },
+    {
+        "id": 5,
+        "title": "Increase your concentration on your work with simple routine.",
+        "url": "https://images.pexels.com/photos/4348078/pexels-photo-4348078.jpeg",
+        "description": "By incorporating these tasks into your daily routine, you can enhance your concentration and improve your overall productivity.",
+        "category": "mind"
+    },
+    {
+        "id": 6,
+        "title": "Before a month, prepare for the exam. (Preparation for the final month)",
+        "url": "https://images.pexels.com/photos/4050405/pexels-photo-4050405.jpeg",
+        "description": "Following this routine can help you maintain focus and efficiency while preparing for exams. It provides a balance between studying, rest, and self-care, which is important for overall well-being and academic success.",
+        "category": "preparation"
+    },
+    {
+        "id": 7,
+        "title": "Make one true friend in your life with small steps.",
+        "url": "https://images.pexels.com/photos/6205491/pexels-photo-6205491.jpeg",
+        "description": "These tasks focus on building a strong foundation for a true and good friendship by prioritizing regular communication, shared experiences, and gratitude. Being consistent in these actions can help nurture a meaningful and lasting friendship.",
+        "category": "social"
+    },
+    {
+        "id": 8,
+        "title": "Boost the amount of water in your body with a simple water consumption routine.",
+        "url": "https://images.pexels.com/photos/3124674/pexels-photo-3124674.jpeg",
+        "description": "These are easy things to add into your daily routine so that you stay well hydrated all day.",
+        "category": "routine"
+    },
+    {
+        "id": 9,
+        "title": "Glow your skin. The best skin care routine with simple and short tasks",
+        "url": "https://images.pexels.com/photos/3846156/pexels-photo-3846156.jpeg",
+        "description": "Following this daily routine can help you maintain healthy, radiant skin by prioritizing cleansing, sun protection, hydration, and moisturizing. ",
+        "category": "skin care"
+    },
+    {
+        "id": 10,
+        "title": "A simple routine to grow your Pinterest account",
+        "url": "https://images.pexels.com/photos/5052877/pexels-photo-5052877.jpeg",
+        "description": "Following this daily routine can help you maintain healthy, radiant skin by prioritizing cleansing, sun protection, hydration, and moisturizing. ",
+        "category": "skin care"
+    },
+    {
+        "id": 11,
+        "title": "Take simple, routine steps to get a girlfriend.(21-25)",
+        "url": "https://images.pexels.com/photos/4009368/pexels-photo-4009368.jpeg",
+        "description": "By incorporating these tasks into your daily routine, you can cultivate a stronger and more loving relationship with your girlfriend. Being attentive, communicative, and thoughtful can help deepen your connection and enhance your relationship.",
+        "category": "relationship"
+    },
+    {
+        "id": 12,
+        "title": "Increase positivity in your life with simple, small steps.",
+        "url": "https://images.pexels.com/photos/4467687/pexels-photo-4467687.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "By incorporating these tasks into your daily routine, you can work towards decreasing negative thinking and fostering a more positive mindset.",
+        "category": "positivity"
+    },
+    {
+        "id": 13,
+        "title": "Make digestion process strong",
+        "url": "https://images.pexels.com/photos/4467687/pexels-photo-4467687.jpeg",
+        "description": "By incorporating these tasks into your daily routine, you can work towards decreasing negative thinking and fostering a more positive mindset.",
+        "category": "positivity"
+    },
+    {
+        "id": 14,
+        "title": "Reduce your Procrastination to increase productivity.",
+        "url": "https://images.pexels.com/photos/4064839/pexels-photo-4064839.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "These tasks are designed to promote productivity, focus, and a sense of accomplishment throughout the day. Implementing this routine can help you manage procrastination and maintain steady progress toward your goals.",
+        "category": "productivity"
+    },
+    {
+        "id": 15,
+        "title": "Maintain your genital health with easy steps (Only for Men)",
+        "url": "https://images.pexels.com/photos/1431283/pexels-photo-1431283.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "By incorporating these tasks into your daily routine, you can support your genital health and overall well-being. ",
+        "category": "18+"
+    }
+]
