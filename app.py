@@ -36,7 +36,7 @@ def customTmpl():
     data = request.args.get('data')
     
     # Retrieve the Pexels API key from an environment variable
-    my_pex_k = '3F5Q1kY3jFYMs27tFm0bh6EEHlJfvVOAEcK8do9QKHVaQUcIJNajlPDM'
+    my_pex_k = os.environ.get('PEXELS_API_KEY')
     
     pex_url = 'https://api.pexels.com/v1/search'
     headers = {
