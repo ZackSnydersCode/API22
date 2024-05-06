@@ -29,5 +29,10 @@ def Desire():
             return jsonify({'Template':2})
         return jsonify({'Template':3})
 
+@app.route('/customTmp,methods=['GET'])
+def customTmpl():
+    data = request.args.get('data')
+    return f"Hello Custome POrno ${data}"
+
 
 
