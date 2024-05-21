@@ -70,7 +70,7 @@ def customTmpl():
 
 @app.route('/writeJSON',methods=['GET'])
 def writefile():
-    qd = request.args.get(data)
+    qd = request.args.get('data')
     with open('j.txt','w') as j:
         j.dump(qd)
     return "<H1>JSON file writtern Successfully"
