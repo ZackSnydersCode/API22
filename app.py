@@ -68,11 +68,18 @@ def customTmpl():
 
 
 
-@app.route('/writeJSON',methods=['GET'])
+@app.route('/writeJSON', methods=['GET'])
 def writefile():
-    qd = request.args.get('data')
-    with open('j.txt','w') as j:
-        j.dump(qd)
-    return "<H1>JSON file writtern Successfully"
+    data = request.args.get('data')
+    
+    if not data:
+        return jsonify({'error': 'No data provided'}), 400
+
+    try:
+        with open('j.txt', 'w') as j:
+            j.write(data)
+        return "<h1>JSON file written successfully</h1>"
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
     
 
