@@ -65,3 +65,14 @@ def customTmpl():
         
         # Return a generic error message
         return jsonify({'photo': 'Error fetching data from Pexels API'})
+
+
+
+@app.route('/writeJSON',methods=['GET'])
+def writefile():
+    qd = request.args.get(data)
+    with open('myJson.txt','w') as j:
+        j.dump(qd)
+    return "<H1>JSON file writtern Successfully"
+    
+
